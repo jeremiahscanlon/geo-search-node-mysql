@@ -1,0 +1,22 @@
+{
+  "name": "geo-search-node-mysql",
+  "version": "1.0.0",
+  "description": "Node and MySql tool to GeoSearch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremiahscanlon/geo-search-node-mysql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeremiahscanlon/geo-search-node-mysql/issues"
+  },
+  "homepage": "https://github.com/jeremiahscanlon/geo-search-node-mysql#readme",
+  "dependencies": {
+    "mysql": "^2.10.2"
+  }
+}
